@@ -2,8 +2,7 @@ body{
     background-color: black;
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
-    color: aliceblue;
 }
-.h1{
-    justify-content: center;
+.a{
+    background-color: aliceblue;
 }
